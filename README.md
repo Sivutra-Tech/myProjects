@@ -3,8 +3,8 @@
 #table of contents
 #by Language
 
-[Java](#Java)
-  [LearningJava](#LearningJava)
+[Java](#Java)  
+  [LearningJava](#LearningJava)  
   [SeriousJava]
 
 [Python]
