@@ -23,7 +23,7 @@
 
 # Java  
   # Learning Java
-    - [SimpleCalculator](https://github.com/Sivutra-Tech/FirstProject_SimpleConsoleBasicCalculator)
+  [SimpleCalculator](https://github.com/Sivutra-Tech/FirstProject_SimpleConsoleBasicCalculator)
 
 
 
