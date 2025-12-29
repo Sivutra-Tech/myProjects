@@ -22,8 +22,8 @@
 [Andriod Development]  
 
 # Java  
-  # LearningJava
-
+  # Learning Java
+    - [SimpleCalculator](https://github.com/Sivutra-Tech/FirstProject_SimpleConsoleBasicCalculator)
 
 
 
