@@ -3,23 +3,23 @@
 #table of contents
 #by Language
 
-##Java [Java]
-##LearningJava [LearningJava]
-##SeriousJava [SeriousJava]
+[Java](#Java)
+[LearningJava](#LearningJava)
+[SeriousJava]
 
-##Python [Python]
+[Python]
 
-##JavaScript [JavaScript]
+[JavaScript]
 
-##HTML [HTML]
+[HTML]
 
-##CSS [CSS]
+[CSS]
 
 #by Projects
 
-##Web Development [Web Development]
-##Desktop Development [Desktop Development]
-##Andriod Development [Andriod Development]
+[Web Development]
+[Desktop Development]
+[Andriod Development]
 
 #Java
 #LearningJava
