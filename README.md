@@ -4,8 +4,8 @@
 #by Language
 
 [Java](#Java)
-[LearningJava](#LearningJava)
-[SeriousJava]
+  [LearningJava](#LearningJava)
+  [SeriousJava]
 
 [Python]
 
@@ -22,7 +22,7 @@
 [Andriod Development]
 
 #Java
-#LearningJava
+  #LearningJava
 
 
 
