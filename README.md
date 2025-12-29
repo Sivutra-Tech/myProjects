@@ -1,7 +1,7 @@
 # myProjects
 
-#table of contents  
-#by Language
+# Table of contents  
+# By Language
 
 [Java](#java)  
   [LearningJava](#learningjava)  
@@ -15,14 +15,14 @@
 
 [CSS]
 
-#by Projects
+# By Projects
 
 [Web Development]  
 [Desktop Development]  
 [Andriod Development]  
 
-#Java  
-  #LearningJava
+# Java  
+  # LearningJava
 
 
 
